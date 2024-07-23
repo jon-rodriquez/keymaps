@@ -2,15 +2,22 @@
 
 ## Layer 0
 
-<img width="711" alt="Screenshot 2024-07-16 at 12 43 29 PM" src="https://github.com/user-attachments/assets/da39924a-8286-43c2-873a-a70679473c23">
+<img width="786" alt="Screenshot 2024-07-23 at 3 29 17 PM" src="https://github.com/user-attachments/assets/32477434-67b0-460c-9571-dadf6a85f977">
+
 
 ## Layer 1
 
-<img width="711" alt="Screenshot 2024-07-16 at 12 44 18 PM" src="https://github.com/user-attachments/assets/06b86d90-3d49-4148-85a2-e8d5338a72b0">
+<img width="782" alt="Screenshot 2024-07-23 at 3 30 24 PM" src="https://github.com/user-attachments/assets/3423c99d-5c6b-49ac-91ee-79f28614dcec">
+
 
 ## Layer 2
 
-<img width="696" alt="Screenshot 2024-07-16 at 12 44 50 PM" src="https://github.com/user-attachments/assets/405473a4-c969-49af-b283-4cfca3639495">
+<img width="767" alt="Screenshot 2024-07-23 at 3 30 35 PM" src="https://github.com/user-attachments/assets/9e969c3e-0ecb-431c-9c3b-f4c4d7c3e16e">
+
+
+## Layer 3
+
+<img width="771" alt="Screenshot 2024-07-23 at 3 30 49 PM" src="https://github.com/user-attachments/assets/7a415d5a-0190-411a-a56f-bcab86b89dbf">
 
 
 # Keychron Q3 Map
